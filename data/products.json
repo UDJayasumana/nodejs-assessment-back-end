@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 8",
+    "description": "This is an iphone 8 plus model with gold color",
+    "category": "mobile phone",
+    "imageUrl": "/images/product-iphone8.png",
+    "price": 2500,
+    "stock": 27,
+    "ratings": 4,
+    "status": "INACTIVE"
+  },
+  {
+    "id": 2,
+    "name": "SonyTV X-12",
+    "description": "This is an SonyTV X-12 model with 45' screen size",
+    "category": "tv",
+    "imageUrl": "/images/product-sony-tv-x12.png",
+    "price": 40000,
+    "stock": 23,
+    "ratings": 5,
+    "status": "INACTIVE"
+  },
+  {
+    "id": 3,
+    "name": "Panasonic XV",
+    "description": "This is an Panasonic XV telivision with 75' inch screen size",
+    "category": "tv",
+    "imageUrl": "/images/product-panasonic-xv.png",
+    "price": 38000,
+    "stock": 20,
+    "ratings": 3,
+    "status": "INACTIVE"
+  },
+  {
+    "id": 4,
+    "name": "Playstation 5",
+    "description": "This is the newest gaming console of sony",
+    "category": "gaming console",
+    "price": 130000,
+    "imageUrl": "/images/product-ps5.png",
+    "stock": 8,
+    "ratings": 5,
+    "status": "ACTIVE"
+  },
+  {
+    "id": 5,
+    "name": "Singer TV",
+    "description": "This is an Singer LOD telivision with 95' inch screen size",
+    "category": "tv",
+    "imageUrl": "/images/product-lg-tv.png",
+    "price": 75000,
+    "stock": 12,
+    "ratings": 3,
+    "status": "INACTIVE"
+  }
+]

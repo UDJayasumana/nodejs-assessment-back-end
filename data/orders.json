@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "product": "Iphone 8",
+        "status": "PENDING"
+    },
+    {
+        "id": 2,
+        "product": "SonyTV X-12",
+        "status": "SHIPPED"
+    },
+    {
+        "id": 3,
+        "product": "Iphone 8",
+        "status": "DELIVERED"
+    },
+    {
+        "id": 4,
+        "product": "Panasonic XV",
+        "status": "CANCELLED"
+    }
+]
